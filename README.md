@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @reaganmayoko26
+- 👋 Hi, I’m Reagan Mayoko
 - 👀 I’m interested in Data science and Machine learning with python
 - 🌱 I’m currently learning Data science and Machine learning with python (IBM Developer and Udemy)
 - 💞️ I’m looking to collaborate on Data science community, my first language is French
